@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaraboKRB
-- 👀 I’m interested in Software Development(Back-End)
+- 👀 I’m interested in Software Development(Back-End) and Cybersecurity 
 - 🌱 I’m currently learning Information System
-- 💞️ I’m looking to collaborate on my Web Application
 - 📫 How to reach me 067 778 0948 / karabokekanakay@outlook.com
 
 <!---
